@@ -1,0 +1,17 @@
+{
+    "ownerNumber": ["6282338565634@s.whatsapp.net"],
+    "ownerName": ["Angga ID"],
+    "botName": "X-Neo Bot",
+    "instagram": "anggastoree_",
+    "footer": "© X-Angga ID",
+    "no_ewallet": "082172066477",
+    "sessionName": "xnone-md",
+    "pathimg": "./media/x-none.jpg",
+    "qrisimg": "./media/qris.jpg",
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 35,
+        "user": 15
+    }
+}
